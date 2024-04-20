@@ -2,7 +2,10 @@
 This repository contains the code for the simulation of a state space model. The state space model is a mathematical model that describes the behavior of a dynamic system. The state space model is defined by two equations:
 
 $$
-\dot{\mathbf{x}} = \mathbf{A}\mathbf{x} + \mathbf{B}\mathbf{u} \\
+\dot{\mathbf{x}} = \mathbf{A}\mathbf{x} + \mathbf{B}\mathbf{u}
+$$
+
+$$
 \mathbf{y} = \mathbf{C}\mathbf{x} + \mathbf{D}\mathbf{u}
 $$
 
