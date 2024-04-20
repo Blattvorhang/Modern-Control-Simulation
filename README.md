@@ -1,5 +1,5 @@
 # State Space Simulation
-This repository contains the code for the simulation of a state space model.
+This repository contains the code for the simulation of state space models.
 
 The state space model is a mathematical model that describes the behavior of a dynamic system, which is defined by two equations:
 
